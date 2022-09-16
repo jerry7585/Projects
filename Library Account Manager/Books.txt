@@ -1,0 +1,10 @@
+519349586 01 3 5 0 Building_Stuff Peter_Brand
+479852356 02 1 2 0 Combinatronics Alan_Tucker
+683401680 03 4 1 0 En_Espanol Juan_Costas
+023752347 04 2 7 0 Alchemy Isaac_Newton
+816031642 05 1 4 0 Pre_Calculus Harry_Swaine
+536728105 06 3 2 0 Deterministic_Signals Carl_Feige
+385721985 07 2 3 0 Organic_Chemistry Henry_Potter
+532809387 08 2 5 0 Chemistry_For_Dummies Baron_Chen
+325713709 09 1 5 0 Multivariable_Calculus Maria_Parker
+325190359 10 4 8 0 English_1400s Thomas_Paine
