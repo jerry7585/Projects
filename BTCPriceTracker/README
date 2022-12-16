@@ -1,0 +1,3 @@
+
+A short program I worked on to familiarize myself with the use of sending GET requests with API.
+I've used the CoinDesk API to keep track of any crypto available, specifically focusing on Bitcoin(BTC) this project.
